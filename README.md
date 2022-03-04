@@ -1,5 +1,5 @@
 ![License: CISCO](https://img.shields.io/badge/License-CISCO-blue.svg)
-[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/<REPO-HERE>)
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/sxo_secops_workflow)
 
 # Automated SecOps workflow with Policy Enforcement Verification
 This workflow will serve as an example of a SecOps workflow that includes automation remediation via Cisco Umbrella (block C2 domain), Cisco ThousandEyes (policy enforcement verification) Cisco Duo (disable user), Cisco SecureX (create casebook) and Cisco Webex (send notifcation). One could easily add/replace other solutions as well. 
